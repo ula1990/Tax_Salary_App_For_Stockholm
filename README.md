@@ -9,4 +9,7 @@ Additional components of the structure:
 Function If,Else
 
 ![Screenshot](preview.png)
+
+2nd ViewContoller
+
 ![Screenshot](preview2.png)
