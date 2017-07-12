@@ -9,3 +9,4 @@ Additional components of the structure:
 Function If,Else
 
 ![Screenshot](preview.png)
+![Screenshot](preview2.png)
